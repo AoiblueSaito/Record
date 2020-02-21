@@ -1,0 +1,20 @@
+PODS:
+  - BubbleTransition (3.2.0)
+  - IQKeyboardManagerSwift (6.0.4)
+
+DEPENDENCIES:
+  - BubbleTransition
+  - IQKeyboardManagerSwift (= 6.0.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BubbleTransition
+    - IQKeyboardManagerSwift
+
+SPEC CHECKSUMS:
+  BubbleTransition: 2f112cc19772d9ab199bc850de92f5eb34744bce
+  IQKeyboardManagerSwift: 36dbe324b4f9793f5f41ba5227f3e7c76dfefd50
+
+PODFILE CHECKSUM: 38a4f0ef127b7a9398ded99461fbcf3a3be36505
+
+COCOAPODS: 1.7.3
